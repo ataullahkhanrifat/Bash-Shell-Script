@@ -9,7 +9,7 @@ TEMPDIR="/tmp/webfiles"
 
 #Install dependecies
 echo "######################################################"
-echo " Install packages."
+echo " Install packages. "
 echo "######################################################"
 echo
 sudo yum install $PACKAGE -y > /dev/null
